@@ -12,10 +12,7 @@ I'm passionate about web development and love learning new technologies.
 
 ### 🚀 Featured Projects
 - [Sweet Cakes Recipe Website](https://github.com/anniinap/sweet-cakes-recipe-website)
-- [Personal Website](https://github.com/anniinap/personal-website)
-- [Front-End Mentor Challenges](https://github.com/anniinap/front-end-mentor)
 - [Travel Diary](https://github.com/anniinap/travel-diary)
-- [QR Code Component](https://github.com/anniinap/QR-code-component)
 
 ### 📫 Get in Touch
 - Email: anniina.pitka@gmail.com
@@ -35,8 +32,8 @@ I'm passionate about web development and love learning new technologies.
 
 ## 📊 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact&theme=radical" height="165"/>
-
+![Annina's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniinap&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact&theme=radical)
 
 ---
 
