@@ -4,6 +4,6 @@ Welcome to my GitHub profile.
 
 - 🌱 I’m currently learning front-end development
 - 🚀 Check out my projects below!
-- 📫 How to reach me: anniina@example.com
+- 📫 How to reach me: anniina.pitka@gmail.com
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=anniinap&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact)
