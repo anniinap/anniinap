@@ -35,7 +35,7 @@ I'm passionate about web development and love learning new technologies.
 
 ## 📊 GitHub Stats
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact&theme=radical" height="165"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact&theme=radical" height="165"/>
 
 
 ---
