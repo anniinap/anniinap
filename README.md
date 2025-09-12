@@ -1,4 +1,4 @@
-# Hi, I'm Annina! 👋
+# Hi, I'm Anniina! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about web development and love learning new technologies.
