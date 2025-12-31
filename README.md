@@ -2,13 +2,16 @@
 
 Welcome to my GitHub profile!  
 I'm passionate about web development and love learning new technologies.
+I am currently working as a Front-end Developer Intern, focusing on mobile app development.
 
 ---
 
 ### 🌱 Currently Learning
-- Front-end development
-- React & modern JavaScript
-- UI/UX principles
+- Front-end Development
+- React Native & Expo
+- TypeScript
+- Firebase
+- Backend Basics
 
 ### 🚀 Featured Projects
 - [Sweet Cakes Recipe Website](https://github.com/anniinap/sweet-cakes-recipe-website)
