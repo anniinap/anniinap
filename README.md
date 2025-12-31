@@ -11,7 +11,6 @@ I am currently working with these technologies in my internship:
 - Mobile: React Native & Expo
 - Languages: TypeScript & JavaScript
 - Backend & Tools: Firebase & Git
-- Web: React & Modern CSS
 
 ### 🌱 Featured Projects
 - [Sweet Cakes Recipe Website](https://github.com/anniinap/sweet-cakes-recipe-website)
@@ -35,12 +34,6 @@ I am currently working with these technologies in my internship:
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniinap&layout=compact&theme=radical&count_private=true&show_icons=true)
 
 ---
 
